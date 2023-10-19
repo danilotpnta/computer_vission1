@@ -2,3 +2,16 @@
 Lab1/images/
 others/
 Lab3/CV1_Lab3_Students_old.ipynb
+project/others/
+project/__pycache__/lab1_utils.cpython-36.pyc
+project/__pycache__/lab1_utils.cpython-38.pyc
+project/__pycache__/lab1_utils.cpython-39.pyc
+project/data/cifar-10-python.tar.gz
+project/data/cifar-10-batches-py/batches.meta
+project/data/cifar-10-batches-py/data_batch_1
+project/data/cifar-10-batches-py/data_batch_2
+project/data/cifar-10-batches-py/data_batch_3
+project/data/cifar-10-batches-py/data_batch_4
+project/data/cifar-10-batches-py/data_batch_5
+project/data/cifar-10-batches-py/readme.html
+project/data/cifar-10-batches-py/test_batch
